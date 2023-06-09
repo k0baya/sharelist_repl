@@ -1,5 +1,5 @@
-# sharelist_repl
-Deploy sharelist on Replit.
+# [sharelist](https://github.com/reruin/sharelist)_repl
+Deploy sharelist on [Replit](https://replit.com).
 ## usage
 Blank Repl
 ```bash
